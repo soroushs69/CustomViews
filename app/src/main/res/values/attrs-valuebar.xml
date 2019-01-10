@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- /////////////NOT COMPLETE///////////// -->
+
+<resources>
+    <declare-styleable name="valueBar">
+        <attr name="maxValue" format="integer"/>
+        <attr name="value" format="integer"/>
+        <attr name="fillColor" format="color"/>
+    </declare-styleable>
+</resources>
